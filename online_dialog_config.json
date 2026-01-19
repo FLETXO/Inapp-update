@@ -1,0 +1,18 @@
+{
+  "showDialog": true,
+  "title": "Important Announcement",
+  "message": "We've released a new feature! Check it out now or you can update later from the Play Store.",
+  "lottieAnimationUrl": "https://assets1.lottiefiles.com/packages/lf20_1_S2iT.json",
+  "isCancelable": true,
+  "positiveButton": {
+    "text": "Check it Out",
+    "isVisible": true,
+    "action": "OPEN_URL",
+    "actionUrl": "https://play.google.com/store/apps"
+  },
+  "negativeButton": {
+    "text": "Dismiss",
+    "isVisible": true,
+    "action": "DISMISS"
+  }
+}

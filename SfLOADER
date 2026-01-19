@@ -2,9 +2,9 @@
   "show_dialog": true,
   "is_cancelable": false,
   "title": "Important Announcement",
-  "message": "We have released a new feature that you will love. Please check it out!\n\nThank you for your continued support.",
+  "message": "SF 2.0 LOADER\nby ItzRobinOP\nPlay Safe to Avoid Bans!!\n\n Join telegram for More Updates!",
   "positive_button": {
-    "text": "Check it Out",
+    "text": "Join",
     "action": "OPEN_URL",
     "action_value": "https://t.me/ScarfallModz_Org"
   },

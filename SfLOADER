@@ -1,13 +1,12 @@
 {
   "show_dialog": true,
   "is_cancelable": false,
-  "lottie_animation_url": "https://raw.githubusercontent.com/devrobinop/Inapp-update/refs/heads/main/Animation.json",
   "title": "Important Announcement",
-  "message": "We have released a new feature that you will love. Please check it out!\\n\\nThank you for your continued support.",
+  "message": "We have released a new feature that you will love. Please check it out!\n\nThank you for your continued support.",
   "positive_button": {
     "text": "Check it Out",
     "action": "OPEN_URL",
-    "action_value": "https://github.com/devrobinop"
+    "action_value": "https://t.me/ScarfallModz_Org"
   },
   "negative_button": {
     "text": "Maybe Later",
